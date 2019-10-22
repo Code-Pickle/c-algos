@@ -1,2 +1,2 @@
-# c-algos
-A collection of sorting algorithms written in C.
+# C Algorithms
+A collection of algorithms written in C.
