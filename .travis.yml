@@ -1,5 +1,2 @@
 script:
   - gcc sorting.c
-  - ./a.out
-  - 5 7 3 9 234 21 43 66 3 0
-  - 1
