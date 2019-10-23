@@ -1,0 +1,2 @@
+script:
+  - gcc sorting.c
